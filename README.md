@@ -52,3 +52,4 @@
 1. `grep` - поиск строк. `grep CRON /var/log/auth.log`, `grep CRON /var/log/auth.log | less`, `grep CRON /var/log/auth.log | wc -l`
     - `v` - получить все строки, которые не содержат условие поиска
     - `P` - работа с регулярными выражениями
+    - `r` - рекурсивно искать файлы в директории
